@@ -1,0 +1,9 @@
+{
+  "name": "Créno",
+  "short_name": "Créno",
+  "start_url": "/app",
+  "display": "standalone",
+  "background_color": "#FFF6F8",
+  "theme_color": "#8E2457",
+  "icons": [{ "src": "/favicon.ico", "sizes": "48x48", "type": "image/x-icon" }]
+}

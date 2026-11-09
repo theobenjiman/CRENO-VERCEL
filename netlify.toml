@@ -1,0 +1,7 @@
+# Netlify detects Next.js automatically (App Router, server actions, middleware).
+[build]
+  command = "npm run build"
+  publish = ".next"
+
+[functions]
+  node_bundler = "esbuild"
